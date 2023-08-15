@@ -1,0 +1,13 @@
+.arrow-right {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.arrow-right .union {
+  height: 16px;
+  left: 4px;
+  position: absolute;
+  top: 4px;
+  width: 16px;
+}

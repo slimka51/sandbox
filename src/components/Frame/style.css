@@ -1,0 +1,311 @@
+.frame {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0px 4px 20px #4a4a4c1f;
+  height: 344px;
+  position: relative;
+  width: 276px;
+}
+
+.frame .overlap {
+  height: 230px;
+  left: 16px;
+  position: absolute;
+  top: 16px;
+  width: 246px;
+}
+
+.frame .img {
+  height: 155px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 241px;
+}
+
+.frame .steeplain {
+  color: transparent;
+  font-family: "Museo Sans Cyrl-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 154px;
+  width: 246px;
+}
+
+.frame .text-wrapper {
+  color: #333333;
+}
+
+.frame .span {
+  color: #616e74;
+}
+
+.frame .p {
+  color: #616e74;
+  font-family: "Museo Sans Cyrl-300", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 212px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.frame .group {
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 68px;
+}
+
+.frame .overlap-group {
+  background-color: #5e0aa0;
+  border-radius: 3px;
+  height: 28px;
+  position: relative;
+  width: 66px;
+}
+
+.frame .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Museo Sans Cyrl-500", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 13px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+}
+
+.frame .overlap-2 {
+  height: 63px;
+  left: 16px;
+  position: absolute;
+  top: 263px;
+  width: 244px;
+}
+
+.frame .group-2 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.frame .group-3 {
+  height: 63px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 90px;
+}
+
+.frame .overlap-3 {
+  height: 53px;
+  left: 0;
+  position: absolute;
+  top: 10px;
+  width: 88px;
+}
+
+.frame .group-4 {
+  height: 53px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 88px;
+}
+
+.frame .group-wrapper {
+  height: 19px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 86px;
+}
+
+.frame .group-5 {
+  height: 19px;
+  position: relative;
+  width: 88px;
+}
+
+.frame .element {
+  color: #333333;
+  font-family: "Museo Sans Cyrl-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.frame .text-wrapper-3 {
+  color: #333333;
+  font-family: "Museo Sans Cyrl-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.frame .text-wrapper-4 {
+  font-size: 14px;
+}
+
+.frame .element-2 {
+  color: #333333;
+  font-family: "Museo Sans Cyrl-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 33px;
+  white-space: nowrap;
+  width: 67px;
+}
+
+.frame .text-wrapper-5 {
+  color: #333333;
+  font-family: "Museo Sans Cyrl-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.frame .text-wrapper-6 {
+  font-size: 17px;
+}
+
+.frame .text-wrapper-7 {
+  color: #999999;
+  font-family: "Museo Sans Cyrl-300", Helvetica;
+  font-size: 8px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 25px;
+  white-space: nowrap;
+  width: 45px;
+}
+
+.frame .text-wrapper-8 {
+  color: #999999;
+  font-family: "Museo Sans Cyrl-300", Helvetica;
+  font-size: 8px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 40px;
+}
+
+.frame .div-wrapper {
+  align-items: center;
+  background-color: #65a763;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  height: 32px;
+  justify-content: center;
+  left: 153px;
+  padding: 8px 32px;
+  position: absolute;
+  top: 29px;
+  width: 91px;
+}
+
+.frame .text-wrapper-9 {
+  color: #ffffff;
+  font-family: "Museo Sans Cyrl-500", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-bottom: -3px;
+  margin-left: -23px;
+  margin-right: -23px;
+  margin-top: -5px;
+  position: relative;
+  text-align: center;
+  width: 73px;
+}
+
+.frame .overlap-wrapper {
+  height: 20px;
+  left: 85px;
+  position: absolute;
+  top: 13px;
+  width: 70px;
+}
+
+.frame .overlap-4 {
+  height: 20px;
+  position: relative;
+  width: 68px;
+}
+
+.frame .element-3 {
+  color: #616e74;
+  font-family: "Museo Sans Cyrl-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 67px;
+}
+
+.frame .text-wrapper-10 {
+  color: #616e74;
+  font-family: "Museo Sans Cyrl-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.frame .line {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 55px;
+}
+
+.frame .overlap-group-wrapper {
+  height: 20px;
+  left: 63px;
+  position: absolute;
+  top: 43px;
+  width: 70px;
+}
